@@ -1,0 +1,58 @@
+.bodyBG{
+    background-color: antiquewhite;
+}
+
+.colBg{
+    background-color: dimgrey;
+    color: antiquewhite;
+    height: 99vh;
+}
+
+.rowBG{
+    background-color:  rgb(210, 201, 189);
+    color: dimgray;
+    height: 20vh;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.buttonConfig{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    color: antiquewhite;
+    background-color: dimgrey;
+    font-size: larger;
+}
+
+.sortBtnConfig{
+    width: 300px;
+    height: 85px;
+    border-radius: 50px;
+    color: antiquewhite;
+    background-color:  rgb(210, 201, 189);
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.changeBtnConfig{
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+    color: antiquewhite;
+    background-color: dimgrey;
+    font-size: x-large;
+}
+
+.scroll {
+    height: 650px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    flex-wrap: wrap;
+  }
+
+  .rowText{
+    font-size: 26px;
+  }
